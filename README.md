@@ -38,6 +38,8 @@ COMPLETE
   - Limitations lol
     
 ### Contact
-  - put our names and emails i guess
+  - Ajay Srirankan
+  - Tony Yao
+  - Anirudh Sridhar
 
 ### License
